@@ -1,0 +1,28 @@
+body {
+  padding: 10px;
+  min-width: 500px;
+  background-color: azure;
+  border: 2px solid gray;
+  min-height: 400px;
+  border-radius: 8px;
+}
+#input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 12px;
+  border-radius: 4px;
+}
+.btn {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 12px;
+  border-radius: 6px;
+}
+ol li {
+  font-size: 12px;
+}
+.link {
+  color: rgb(56, 50, 50);
+}
